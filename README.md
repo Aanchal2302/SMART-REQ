@@ -1,1 +1,1 @@
-# SMART-REQ-Automated-Classification-and-Prioritization-of-Software-Requirements-
+# SMART-REQ(Automated-Classification-and-Prioritization-of-Software-Requirements)
